@@ -1,4 +1,4 @@
-# pip install flask streamlit pandas plotly openpyxl psutil
+# pip install flask streamlit pandas plotly openpyxl psutil matplotlib
 # streamlit run Analysis.py
 import streamlit as st
 import pandas as pd
